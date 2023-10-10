@@ -1,2 +1,2 @@
 # test
-test for coursera
+test for the course of DevOps
